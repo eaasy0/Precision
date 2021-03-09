@@ -11,7 +11,7 @@
 ## Результаты
 
 1. 100% не успешных тестов
-2. [Баг-репорт](https://github.com/eaasy0/Money-Transfer-/issues/1#issue-825957451)
+2. [Баг-репорт](https://github.com/eaasy0/Precision/issues/1#issue-826079891)
 
 ## Общие рекомендации
 
